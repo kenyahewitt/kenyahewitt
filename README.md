@@ -48,3 +48,14 @@ Here are some ideas to get you started:
     cache: # optional
     # Workaround to pass job status to post job step. This variable is not intended for manual setting
     job-status: # optional, default is ${{ job.status }}
+    - name: Cache
+  uses: actions/cache@v2.1.7
+  with:
+    # A list of files, directories, and wildcard patterns to cache and restore
+    path: 
+    # An explicit key for restoring and saving the cache
+    key: 
+    # An ordered list of keys to use for restoring the cache if no cache hit occurred for key
+    restore-keys: # optional
+    # The chunk size used to split up large files during upload, in bytes
+    upload-chunk-size: # optional
