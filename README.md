@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
 - name: Setup Java JDK
   uses: actions/setup-java@v2.4.0
@@ -58,4 +59,3 @@ Here are some ideas to get you started:
     # An ordered list of keys to use for restoring the cache if no cache hit occurred for key
     restore-keys: # optional
     # The chunk size used to split up large files during upload, in bytes
-    upload-chunk-size: # optional
