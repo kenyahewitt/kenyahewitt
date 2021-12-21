@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/83016880/146683920-320073f5-d9ea-4a92-9b94-62e0a48dbca5.jpg)
 ### Hi there 👋
-Alien funs navigation code eco
+en funs navigation code eco
 <!--
 **kenyahewitt/kenyahewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -57,5 +57,4 @@ Here are some ideas to get you started:
     # An explicit key for restoring and saving the cache
     key: 
     # An ordered list of keys to use for restoring the cache if no cache hit occurred for key
-    restore-keys: # optional
-    # The chunk size used to split up large files during upload, in bytes
+    restore-keys
