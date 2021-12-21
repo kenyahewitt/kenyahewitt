@@ -1,8 +1,6 @@
 
 ### Hi there 👋
 en funs navigation code eco
-<!--
-**kenyahewitt/kenyahewitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - name: Setup Java JDK
   uses: actions/setup-java@v2.4.0
   with:
