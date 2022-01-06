@@ -5,7 +5,7 @@ en funs navigation code eco
   uses: actions/setup-java@v2.4.0
   with:
     # The Java version to set up. Takes a whole or semver Java version. See examples of supported syntax in README file
-    java-version: 
+    java-version: 2.4.0
     # Java distribution. See the list of supported distributions in README file
     distribution: 
     # The package type (jdk, jre, jdk+fx, jre+fx)
