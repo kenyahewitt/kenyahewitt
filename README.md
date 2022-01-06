@@ -1,6 +1,4 @@
-![repository-open-graph-template 4](https://user-images.githubusercontent.com/83016880/147983186-80b51307-4929-4ba1-9114-432263255504.png)
-
-HELLO WORLD 👋
+hello-world
 en funs navigation code eco
 - name: Setup Java JDK
   uses: actions/setup-java@v2.4.0
